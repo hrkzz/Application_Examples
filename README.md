@@ -1,4 +1,4 @@
-# 統計学等を用いた解析
+# データ解析の実例
 統計学や機械学習等を用いたデータ解析の実例を掲載しています。
 
 ### 1.Analysing advertisement effects by dynamic linear model and pystan <br>
